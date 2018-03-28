@@ -22,7 +22,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: sloanlance/sloanlance.github.io
+  github: 
+    - sloanlance/sloanlance.github.io
+    - sloanlance
   instagram:
   linkedin:
   pinterest:
