@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SNAFU – iCloud Holidays
+title: SNAFU%3A iCloud Holidays
 ---
 
 This morning my iOS devices told me tomorrow is Easter.  As I logged into my MacBook, it told me the same.  The fact is, though, that Easter was almost two weeks ago on 01 Apr.  That's the date many sources give, including [timeanddate.com](https://www.timeanddate.com/holidays/common/easter-sunday).
