@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Farewell goo.gl
 ---
 
 According to the "[Transitioning Google URL Shortener to Firebase Dynamic Links](https://developers.googleblog.com/2018/03/transitioning-google-url-shortener.html)" article on the Google Developers blog, the [goo.gl](goo.gl) URL shortening service is being phased out.  Some of its features were disabled on 13 April 2018 and most of the rest of the management features will be disabled on 30 March 2019.  Redirection for existing links will continue to work after that time, but it's not clear how long that will be the case.
