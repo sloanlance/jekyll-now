@@ -1,0 +1,9 @@
+---
+layout: post
+title: import pip
+tags: python
+---
+
+While working on some instructional Jupyter Notebooks lately, I included written instructions for installing required Python modules.  Some users of the notebooks were very new to Python (and programming in some cases), so the extra installation step seemed
+wanted to include code that would install the required Python modules
+https://pip.pypa.io/en/stable/user_guide/#using-pip-from-your-program
